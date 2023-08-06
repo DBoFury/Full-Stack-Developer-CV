@@ -1,3 +1,3 @@
 # Python-Developer-CV
 
-https://DBoFury.github.io/Python-Developer-CV/
+https://DBoFury.github.io/Full-Stack-Developer-CV/
